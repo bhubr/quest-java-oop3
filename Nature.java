@@ -11,7 +11,7 @@ public class Nature {
         pingou.swimUp(1);
         pingou.getOut();
 
-        Eagle eyeCherry = new Eagle("Eye Cherry");
+        Eagle eyeCherry = new Eagle("Norbert");
         // TODO : décommente le code suivant afin de le tester
         /*
         eyeCherry.takeOff();
